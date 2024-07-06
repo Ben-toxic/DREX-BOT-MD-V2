@@ -21,17 +21,17 @@ global.location = "Africa, Kenya, Nairobi" //ur location
 //new
 global.botname = '𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 𝐌𝐃 𝐕2' //ur bot name
 global.ownernumber = '254102074064' //ur owner number
-global.ownername = '𝐃𝐑𝐄𝐗 𝐌𝐎𝐒𝐄' //ur owner name
+global.ownername = '𝐵𝛯𝛮 𝐵𝑈𝐺 𝐵𝛩𝑇' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://chat.whatsapp.com/Hf4W852NAroEgMCuQpLX1a"
 global.themeemoji = '😁'
 global.wm = "Drex Bot Inc."
 global.botscript = 'its under development bruh😂' //script link
 global.packname = "𝐒𝐭𝐢𝐜𝐤𝐞𝐫 𝐛𝐲"
-global.author = "𝐘𝐨𝐮𝐫 𝐏𝐚𝐩𝐚 𝐃𝐫𝐞𝐱\n\n+254102074064"
-global.creator = "254102074064@s.whatsapp.net"
+global.author = "𝐘𝐨𝐮𝐫 𝐏𝐚𝐩𝐚 Ben\n\n+254719485000"
+global.creator = "254719485000@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254102074064"] // Premium User
+global.premium = ["254719485000"] // Premium User
 global.hituet = 0
 
 //bot sett
